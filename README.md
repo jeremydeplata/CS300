@@ -1,5 +1,6 @@
 # CS300
 **1. What was the problem you were solving in the projects for this course?**
+
 -The purpose of this was to allow academic advisors to be able to look up courses. They would be able to see what courses were offered in alphanumeric order as well as prerequisites. We were working on all of this in Project One and started programming in Project Two.
 
 **2. How did you approach the problem? Consider why data structures are important to understand.**
